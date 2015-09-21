@@ -1,2 +1,2 @@
 # oxphys-throttler
-Network reate throttling
+Network rate throttling.
